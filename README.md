@@ -1,3 +1,38 @@
+
+#header {
+  font-size: 30px;
+  text-align: center;
+  font-family: times, courier, sans;
+}
+
+.logo{
+  width:60vw;
+  content-align: center;
+}
+html, body {
+  text-align: center;
+  font-family: helvetica, courier, sans;
+  background: lightgrey;
+}
+
+
+h2 {
+  font-size: 62px;
+  color: purple; 
+}
+
+h3 {
+  font-size: 32px;
+}
+
+ul {
+  font-size: 24px;
+  text-align: flex;
+}
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Marlololo/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
